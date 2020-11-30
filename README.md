@@ -44,7 +44,6 @@
 ![badge](https://img.shields.io/badge/Language-CSS3-1572B6?logo=CSS3)
 ![badge](https://img.shields.io/badge/Communication-Jira-0052CC?logo=Jira)
 ![badge](https://img.shields.io/badge/Communication-Mattermost-0072C6?logo=Mattermost)
-![badge](https://img.shields.io/badge/Communication-Mattermost-0072C6?logo=Mattermost)
 ![badge](https://img.shields.io/badge/Communication-Notion-000000?logo=Notion)
 ![badge](https://img.shields.io/badge/Package-Maven-0072C6?logo=Apache-Maven)
 ![badge](https://img.shields.io/badge/Package-NPM-0072C6?logo=NPM)
