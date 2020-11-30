@@ -124,6 +124,3 @@
 > #### 팀원 : 김장후 (Front End, Infra, Documentation)
 > #### 팀원 : 박지윤 (Front End, Infra, Presentation)
 > #### 팀원 : 최재빈 (Back End, Infra, Documentation)
-
-## :dvd: License
-#### :link:(https://lab.ssafy.com/s03-final/s03p31a408/blob/master/LICENSE.txt)
