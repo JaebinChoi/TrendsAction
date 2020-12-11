@@ -1,6 +1,6 @@
-![TrendsActionLogo](/uploads/b8f3451437c232d1b1c9d32fa385cf3d/TrendsActionLogo.jpg)
+![TrendsActionLogo](https://user-images.githubusercontent.com/51224070/101862744-53be5000-3bb6-11eb-943e-c2e2d8727917.jpg)
 
-# :person_frowning: 오빠 나 달라진거 없어? [서울 4반 8조] [2020.10.12 ~ 2020.11.17]
+# :girl: 오빠 나 달라진거 없어? [서울 4반 8조] [2020.10.12 ~ 2020.11.17]
 #### :link:[TrendsAction](http://k3a408.p.ssafy.io/)
 
 # :runner: TrendsAction [트렌드를 파악하고 행동하라!]
@@ -20,10 +20,10 @@
 #### 데이터 수집과 분석을 자동화하여 주기적으로 객관적인 정보를 제공
 
 ## :globe_with_meridians: 시스템 구조
-![아키텍처](/uploads/247bbfe57b2c7418d79dcc1ebfe498cb/아키텍처.png)
+![아키텍처](https://user-images.githubusercontent.com/51224070/101862977-9aac4580-3bb6-11eb-99bd-89cf89f2802d.png)
 
 ## :globe_with_meridians: ER Diagram
-![ERD물리](/uploads/a06909935efaa25eedcb7610418c0b6f/ERD물리.JPG)
+![ERD물리](https://user-images.githubusercontent.com/51224070/101862995-9ed86300-3bb6-11eb-9aeb-3fd94fd4c619.JPG)
 
 ## :computer: 기술 스택
 ![badge](https://img.shields.io/badge/Framework-Vue-4FC08D?logo=Vue.js)
@@ -110,13 +110,13 @@
 #### FAQ
 
 ## :cow: 서비스 소개 :dog:
-#### :link:[Introduction Service](https://lab.ssafy.com/s03-final/s03p31a408/blob/master/docs/%EC%84%9C%EB%B9%84%EC%8A%A4%EC%86%8C%EA%B0%9C.md)
+#### :link:[Introduction Service](https://github.com/JaebinChoi/TrendsAction/blob/master/docs/%EC%84%9C%EB%B9%84%EC%8A%A4%EC%86%8C%EA%B0%9C.md)
 
 ## :clipboard: 프로젝트 사용법
-#### :link:[How To Use](https://lab.ssafy.com/s03-final/s03p31a408/blob/master/docs/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%AC%EC%9A%A9%EB%B2%95.md)
+#### :link:[How To Use](https://github.com/JaebinChoi/TrendsAction/blob/master/docs/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%AC%EC%9A%A9%EB%B2%95.md)
 
 ## :pencil: 개발 규칙
-#### :link:[Convention & Workflow](https://lab.ssafy.com/s03-final/s03p31a408/blob/master/docs/%EC%9E%90%EC%9C%A8%ED%94%8C%EC%A0%9D%EC%BB%A8%EB%B2%A4%EC%85%98.md)
+#### :link:[Convention & Workflow](https://github.com/JaebinChoi/TrendsAction/blob/master/docs/%EC%9E%90%EC%9C%A8%ED%94%8C%EC%A0%9D%EC%BB%A8%EB%B2%A4%EC%85%98.md)
 
 ## :family: 팀소개
 > #### 팀장 : 김동휘 (Back End, Data Analysis, UCC)
